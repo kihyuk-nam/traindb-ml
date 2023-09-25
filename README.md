@@ -6,7 +6,7 @@ Python 3.8 on Ubuntu 20.04
 
 ## Setting up
 ```
-# git clone https://github.com/traindb-project/traindb-ml.git
+# git clone https://github.com/kihyuk-nam/traindb-ml.git
 
 # cd traindb-ml
 // create venv or conda
