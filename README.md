@@ -16,7 +16,7 @@ Python 3.8 on Ubuntu 20.04
 (venv) #
 
 // install dependencies. (pip == pip3) For example,
-(venv) # pip install numpy pandas tables fastapi uvicorn spflow sqlparse psycopg2
+(venv) # pip install numpy pandas tables fastapi uvicorn spflow sqlparse psycopg2 scipy
 
 // which is the same as the following:
 //(venv) # pip install -r requirements.txt
