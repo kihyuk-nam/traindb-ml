@@ -17,9 +17,13 @@ Python 3.8 on Ubuntu 20.04
 
 // install dependencies. (pip == pip3) For example,
 (venv) # pip install numpy pandas tables fastapi uvicorn spflow sqlparse psycopg2 scipy
-
 // which is the same as the following:
 //(venv) # pip install -r requirements.txt
+
+// Possible errors due to the spflow package:
+// 1. PyQT5: use PyQT5=5.13 if the error occurs for 5.15.x
+// 2. sklearn erorr: 'sklearn' is deprecated. It should be 'scikit-learn'. See the error message that contains the solution. (set env var)
+
 ```
 ## Launching a REST API for development (using Fast API)
 ```
