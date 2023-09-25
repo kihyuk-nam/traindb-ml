@@ -11,6 +11,8 @@ Python 3.8 on Ubuntu 20.04
 # cd traindb-ml
 // create a venv as 'venv'(or whatever you want) 
 # python3 -m venv venv
+// activate it
+# source venv/bin/activate
 (venv) #
 
 // install dependencies. (pip == pip3) For example,
