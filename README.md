@@ -9,7 +9,8 @@ Python 3.8 on Ubuntu 20.04
 # git clone https://github.com/kihyuk-nam/traindb-ml.git
 
 # cd traindb-ml
-// create venv or conda
+// create a venv as 'venv'(or whatever you want) 
+# python3 -m venv venv
 (venv) #
 
 // install dependencies. (pip == pip3) For example,
